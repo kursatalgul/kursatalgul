@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Openedge Progress and React Native<br>🌱 I’m currently learning React Native and Node.js<br>🤔 I’m looking for help with people<br>💬 Ask me about React Native
+🔭 I’m currently working on Openedge Progress and React Native<br>🌱 I’m currently learning React Native and Node.js<br>🤔 I’m looking for new information<br>💬 Ask me about React Native
 
 
 ## 🌐 Socials:
